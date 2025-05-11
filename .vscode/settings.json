@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "Colab",
+        "Collab",
+        "javac",
+        "MERN",
+        "overexplaining",
+        "passinput",
+        "remixicon"
+    ],
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false,
+        "cpp": false,
+        "java": false
+    }
+}
